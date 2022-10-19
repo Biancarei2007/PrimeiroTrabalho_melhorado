@@ -1,0 +1,98 @@
+body {
+    padding: 2px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.nofocus{
+    padding: 0;
+}
+
+.title_1{
+    text-align: center;
+}
+
+.nome{
+    text-align: right;
+}
+
+.links{
+    margin-left: 35%;
+}
+
+.links ul{
+    display: flex;
+}
+
+.links ul li{
+    list-style-type: none;
+    padding-right:10px;
+}
+
+.links ul li a{
+    text-decoration: none;
+    
+}
+
+.intro p{
+    text-align: justify;
+}
+
+
+.container1{
+    align-items: center;
+}
+.funcao ul li{
+   padding: 2px;
+}
+
+.componentes ul li{
+    padding: 2px;
+}
+
+.historia p{
+    text-align: justify;
+}
+
+.arquitetura p{
+    text-align: justify;
+}
+
+.video_arq{
+    text-align: center;
+    align-content: center;
+}
+
+footer {
+    position: relative;
+    height: 50px;
+    width: 100%;
+    background-color: #333333;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+p.copyright {
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
+}
+
+.clear{
+    clear: both;
+}
